@@ -1,3 +1,3 @@
-# Albobob
-:japanese_goblin: Hi!
+# Albobob :japanese_goblin:
+Hi!
 My name is Simonyan Albert Robertvich.
